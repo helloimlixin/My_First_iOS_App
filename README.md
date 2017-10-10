@@ -2,7 +2,7 @@
 
 ## Objectives
 
-⭕️ Build WEB, iOS or Android application	
+✅ Build WEB, iOS or Android application	
 
 ⭕️ Study the fundamentals of application development	
 
