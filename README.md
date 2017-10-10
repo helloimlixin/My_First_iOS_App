@@ -20,6 +20,8 @@
 
 Example provided by the Apple in the tutorial link: https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
 
+The final version of the App is in the Persistant Data folder.
+
 ## Part 2:  Study, modify and intergate one of Firebase Examples						
 
 https://firebase.google.com/docs/samples/
