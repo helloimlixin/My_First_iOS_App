@@ -4,7 +4,7 @@
 
 ✅ Build WEB, iOS or Android application	
 
-⭕️ Study the fundamentals of application development	
+✅ Study the fundamentals of application development	
 
 ⭕️ Study basics of databse and client/server interactions using Freebase 9google DB service)	
 
