@@ -22,6 +22,9 @@ Example provided by the Apple in the tutorial link: https://developer.apple.com/
 
 The final version of the App is in the Persist Data folder.
 
+The demo of the application:
+https://drive.google.com/open?id=0B92lbqqOgYyhNkE3UWIxWmdSNjg
+
 ## Part 2:  Study, modify and intergate one of Firebase Examples						
 
 https://firebase.google.com/docs/samples/
