@@ -7,11 +7,11 @@ pod 'Firebase/Auth'
 # [END auth_pod]
 
 # These are pods used for the auth providers.
-pod 'FBSDKLoginKit'
+
 # [START google_pod]
 pod 'GoogleSignIn'
 # [END google_pod]
-pod 'TwitterKit'
+
 
 target 'AuthenticationExample' do
 end
